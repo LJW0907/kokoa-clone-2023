@@ -1,0 +1,22 @@
+
+.more-screen .icon-row{
+    margin-top: 20px;
+    margin-bottom:40px;
+}
+.suggestion-header{
+    border-top: var(--main-border);
+    padding: 20px 0px;
+}
+.suggestion-icons span{
+    color: var(--gray);
+}
+.suggestion-icons i{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--yellow);
+    width:60px;
+    height: 60px;
+    border-radius: 20%;
+    color:white;
+}

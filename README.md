@@ -1,3 +1,1 @@
 # kokoa clone update
-
-bye!
